@@ -1,44 +1,29 @@
-/* Acá va tu código */
-
-body {
-  background-image: url("../src/745e294fe26fa76028d8bc74d97fd4c5.jpg");
-  background-repeat: repeat-y;
-  background-color: #F6CED8;
+body{
+  background-image: url(../src/2a.png);
+  text-align: center
 }
-h1{
-  width: 200px;
-  margin: 0 auto;
-  color: #610B38;
+#img{
+  text-align: center
 }
-h2 {
-  width: 700px;
-  margin: 0 auto;
-  color: #610B38;
-}
-  .nmb{
-    width: 400px;
-	margin: 0 auto;
-  color: black;
-
-  }
-#intro {
-  vertical-align:middle;
-  display: block;
-  margin: 0 auto;
-  color: #FE2EC8;
-  width: 500px;
+section{
   
+  background-color:#E3CEF6;
+  text-align: center;
+  padding: 8%;
+  border-radius: 15%;
 }
-#campodetextouno {
-  width: 400px;
-	margin: 0 auto;
-  color: black;
-  border-radius: 0.5cm
-  }
-  #campodetextodos {
-    border-top-color: aquamarine;
-    width: 400px;
-    margin: 0 auto;
-    color: black;
-    }
-    
+ button{
+    padding: 3%;
+    border-radius: 8px;
+    font-size: 19px;
+    background-color:palevioletred;
+    margin: 2% 2% 6% 2%;
+}
+
+
+. contenthder{
+   
+    color: #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-size:13px;
+}
